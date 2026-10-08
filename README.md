@@ -47,3 +47,15 @@ Bus 002 Device 008: ID 1fc8:310b www.zhifengsoft.com WinUSBComm
 
 
 ```
+
+
+
+
+
+
+
+```
+
+https://github.com/bokic/ezp2019
+
+```
